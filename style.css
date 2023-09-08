@@ -1,0 +1,10 @@
+.lead-bg {
+    background-image: url('./img/JPc3hIk_giY.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right center;    
+}
+
+.text-shadow {    
+    text-shadow: 0px 0px 16px rgba(0,0,0,0.75);
+}
